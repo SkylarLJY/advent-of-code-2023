@@ -94,7 +94,7 @@ object Day3 {
     val inputLines2: List[String] = readInput(
       "src/main/scala/code/day3/day3_2.txt"
     )
-    // println(s"Part One: ${partOne(inputLines1)}")
+    println(s"Part One: ${partOne(inputLines1)}")
     println(s"Part Two: ${partTwo(inputLines2)}")
   }
 }
